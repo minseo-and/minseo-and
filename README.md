@@ -20,16 +20,19 @@
     <img src="https://img.shields.io/badge/-@snoopycoffee05-E4405F?logo=Instagram&logoColor=white"/>
   </a>
 <br>
+
 ### Skills 🎨
 
 <a href="https://developer.android.com/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <br>
+
 **Languages** 
 
 <br>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <br>
+
 **Tools** 
 
 <br>
