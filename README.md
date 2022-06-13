@@ -1,12 +1,12 @@
 <div align="center">    
     <h1>  &nbsp;안드로이드 개발자 박민서입니다. ☺ </h1>
 </div>
- <h2>💻 &nbsp;GitHub Analytics</h2>
+<h2>💻 &nbsp;GitHub Analytics</h2>
     <div display="flex" flex-direction="row">
         <img src="https://github-readme-stats.vercel.app/api?username=minseo-and&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-       
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minseo-and&theme=vue"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseo-and&layout=compact&theme=vue"/>
     </div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minseo-and&theme=vue"/>
 </div>
 <br>
   <a href="https://https://www.notion.so/5255e3e75fb242c4b64822773031bf69" target="_blank"><img src="https://img.shields.io/badge/Notion-494649?style=flat-square&logo=Notion&logoColor=white"/>
