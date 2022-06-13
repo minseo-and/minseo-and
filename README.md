@@ -4,7 +4,7 @@
  <h2>💻 &nbsp;GitHub Analytics</h2>
     <div display="flex" flex-direction="row">
         <img src="https://github-readme-stats.vercel.app/api?username=minseo-and&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseo-and&layout=compact&theme=vue"/>
+       
     </div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minseo-and&theme=vue"/>
 </div>
