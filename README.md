@@ -1,6 +1,5 @@
 <div align="center">    
-    <h1> 👋 &nbsp;백엔드 개발자 고경태입니다. ☺️ </h1>
-    <p>✔️ &nbsp;프론트엔드, 백엔드, 안드로이드, iOS, DevOps등 분야를 가리지않고 모두 도전하고 있습니다.</p>
+    <h1>  &nbsp;안드로이드 개발자 박민서입니다. ☺ </h1>
 </div>
  <h2>💻 &nbsp;GitHub Analytics</h2>
     <div display="flex" flex-direction="row">
