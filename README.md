@@ -8,7 +8,7 @@
     </div>
 </div>
 <br>
-  <a href="https://https://www.notion.so/5255e3e75fb242c4b64822773031bf69" target="_blank"><img src="https://img.shields.io/badge/Notion-494649?style=flat-square&logo=Notion&logoColor=white"/>
+  <a href="https://https://[www.notion.so/5255e3e75fb242c4b64822773031bf69](https://holy-vacation-362.notion.site/5255e3e75fb242c4b64822773031bf69)" target="_blank"><img src="https://img.shields.io/badge/Notion-494649?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <a href="https://velog.io/@minseo-and" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
