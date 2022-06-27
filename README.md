@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-msp05070478@gmail.com-D14836?logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/snoopy_coffee05">
-    <img src="https://img.shields.io/badge/-@snoopycoffee05-E4405F?logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-@coffee_kahlua-E4405F?logo=Instagram&logoColor=white"/>
   </a>
 <br>
 
