@@ -15,7 +15,7 @@
   <a href="mailto:msp05070478@gmail.com">
     <img src="https://img.shields.io/badge/-msp05070478@gmail.com-D14836?logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/snoopy_coffee05">
+  <a href="https://www.instagram.com/coffee_kahlua/">
     <img src="https://img.shields.io/badge/-@coffee_kahlua-E4405F?logo=Instagram&logoColor=white"/>
   </a>
 <br>
