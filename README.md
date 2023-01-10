@@ -29,7 +29,7 @@
 <br>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="https://dart.dev/" target="_blank"><img src="[https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white](https://img.shields.io/badge/Dart-1967D2?style=flat-square&logo=Dart&logoColor=white)"/></a>
+<a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-1967D2?style=flat-square&logo=Dart&logoColor=white"/></a>
 <br>
 
 **Tools** 
