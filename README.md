@@ -22,12 +22,14 @@
 
 ### Skills 🎨
 <a href="https://developer.android.com/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="https://flutter-ko.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-075B9A?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <br>
 
 **Languages** 
 <br>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://dart.dev/" target="_blank"><img src="[https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white](https://img.shields.io/badge/Dart-1967D2?style=flat-square&logo=Dart&logoColor=white)"/></a>
 <br>
 
 **Tools** 
