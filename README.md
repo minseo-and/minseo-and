@@ -1,5 +1,5 @@
 <div align="center">    
-    <h1>  &nbsp;안드로이드 개발자 박민서입니다. ☺ </h1>
+    <h1>  &nbsp;플러터 개발자 박민서입니다. ☺ </h1>
 </div>
 <h2>💻 &nbsp;GitHub Analytics</h2>
     <div display="flex" flex-direction="row">
