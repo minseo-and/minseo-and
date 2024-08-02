@@ -1,5 +1,5 @@
 <div align="center">    
-    <h1>  &nbsp;플러터 개발자 박민서입니다. ☺ </h1>
+    <h1>  &nbsp;모바일 개발자 박민서입니다. ☺ </h1>
 </div>
 <h2>💻 &nbsp;GitHub Analytics</h2>
     <div display="flex" flex-direction="row">
@@ -8,15 +8,12 @@
     </div>
 </div>
 <br>
-  <a href="https://holy-vacation-362.notion.site/5255e3e75fb242c4b64822773031bf69" target="_blank"><img src="https://img.shields.io/badge/Notion-494649?style=flat-square&logo=Notion&logoColor=white"/>
+  <a href="https://coffeepark.notion.site/5255e3e75fb242c4b64822773031bf69?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-494649?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <a href="https://velog.io/@minseo-and" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
   <a href="mailto:msp05070478@gmail.com">
     <img src="https://img.shields.io/badge/-msp05070478@gmail.com-D14836?logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/coffee_kahlua/">
-    <img src="https://img.shields.io/badge/-@coffee_kahlua-E4405F?logo=Instagram&logoColor=white"/>
   </a>
 <br>
 
